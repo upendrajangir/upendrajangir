@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Upendra Jangir</h1>
+<h1 align="center">Hi 👋, I'm Upendra Dhanerwa</h1>
 <h3 align="center">A passionate developer & DevOps expert from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upendrajangir&label=Profile%20views&color=0e75b6&style=flat" alt="upendrajangir" /> </p>
